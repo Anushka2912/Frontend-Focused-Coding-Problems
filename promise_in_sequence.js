@@ -1,3 +1,11 @@
+/*
+Question
+Asked in Sumologic, forward network
+Level -> Easy
+How would you implement a function to execute an array of asynchronous tasks
+sequentially, collecting both resolved values and errors?
+*/
+
 const createAsyncTask = () => {
 
     const randomVal = Math.floor(Math.random() *10)
