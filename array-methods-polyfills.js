@@ -1,0 +1,1 @@
+/*Write custom polyfill for map, reduce, filter, every ?*/
