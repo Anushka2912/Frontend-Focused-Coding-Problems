@@ -1,0 +1,1 @@
+/* Write custome polyfill for call, apply and bind method ? */
