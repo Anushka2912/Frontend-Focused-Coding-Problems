@@ -1,0 +1,1 @@
+/*Explain how prototypal inheritance works in JavaScript and how a child inherits properties from a parent using prototype.*/
